@@ -2,6 +2,9 @@
 
 ## MODULO 01
 
+[![CURSO ESPECTACULAR 2](http://img.youtube.com/vi/kh5JxW5SuEI/0.jpg)](http://www.youtube.com/watch?v=kh5JxW5SuEI "CURSO ESPECTACULAR 1")
+
+
 En este modulo se desarrolla los siguientes puntos:
 
 1. Aaaaaaa
