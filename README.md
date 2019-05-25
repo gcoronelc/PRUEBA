@@ -16,12 +16,8 @@ Para acceder al módulo [Debes hacer click aquí](/MODULO01).
 
 ## MODULO 02
 
+![youtube](https://www.youtube.com/watch?v=kh5JxW5SuEI)
 
-[[youtube-{16by9}-{KRXdD8bHJrY}]] 
-
-<p><div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" id="youtubeplayer" type="text/html" width="640" height="390"
-  src="//www.youtube.com/embed/dQw4w9WgXcQ"
-  frameborder="0"/></div></p>
 
 En este modulo se desarrolla los siguientes puntos:
 
