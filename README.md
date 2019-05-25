@@ -19,6 +19,8 @@ Para acceder al módulo [Debes hacer click aquí](/MODULO01).
 
 [[youtube-{16by9}-{KRXdD8bHJrY}]] 
 
+@[youtube](KRXdD8bHJrY)
+
 En este modulo se desarrolla los siguientes puntos:
 
 1. Aaaaaaa
