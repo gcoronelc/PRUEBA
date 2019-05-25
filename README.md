@@ -16,8 +16,7 @@ Para acceder al módulo [Debes hacer click aquí](/MODULO01).
 
 ## MODULO 02
 
-![youtube](https://www.youtube.com/watch?v=kh5JxW5SuEI)
-
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 En este modulo se desarrolla los siguientes puntos:
 
